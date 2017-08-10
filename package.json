@@ -1,0 +1,29 @@
+{
+  "name": "my-sfy-gallery",
+  "version": "1.0.0",
+  "description": "Test Storify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-felipe-rodriguez/TestExpress.git"
+  },
+  "keywords": [
+    "Storify",
+    "Express"
+  ],
+  "author": "Carlos-Felipe Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos-felipe-rodriguez/TestExpress/issues"
+  },
+  "homepage": "https://github.com/carlos-felipe-rodriguez/TestExpress#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+	"consolidate": "0.10.0",
+	"handlebars": "2.0.0-beta.1",
+    "superagent": "0.18.2"
+  }
+}
